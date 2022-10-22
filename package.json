@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my project portfolio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dcuastumal/Portfolio.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "David Alejandro Cuastumal Bucheli (dacuastumal@unimayor.edu.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dcuastumal/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Dcuastumal/Portfolio#readme"
+}
