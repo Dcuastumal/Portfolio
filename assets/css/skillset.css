@@ -48,6 +48,20 @@
   border-color: rgba(0,0,0,0.75) transparent transparent transparent;
 }
 
+@media only screen and (min-width: 360px) and (max-width: 374px) {
+
+  #skillset > div {
+    grid-template-columns: 1fr 1fr ;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 719px) {
+
+  #skillset > div {
+    grid-template-columns: 1fr 1fr ;
+  }
+}
+
 
 
 
